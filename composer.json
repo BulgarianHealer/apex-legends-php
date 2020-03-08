@@ -1,12 +1,11 @@
 {
-    "name": "tustin/apex-legends-php",
-    "description": "PHP wrapper for the Apex Legends API.",
+    "name": "bulgarianhealer/apex-legends-php",
+    "description": "PHP wrapper for the Apex Legends API. Laravel",
     "type": "library",
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Tustin",
-            "email": "Tustin@users.noreply.github.com"
+            "name": "Martin"
         }
     ],
     "autoload": {
